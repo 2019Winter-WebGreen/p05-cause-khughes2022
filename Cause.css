@@ -1,0 +1,27 @@
+/*
+* Kayla Hughes
+* 5-19-19
+* Your Cause Project
+*/
+margins: 0px
+padding: 0px
+/* This sets all margins and padding to 0 */
+*{
+
+}
+/* Body attributes here */
+body {
+width: 98%;margin:auto; background-color:lightcyan; font-family: monospace; /* This makes the body section have a width of 98%, the background color light cyan, and the font monospace */
+}
+header {text-align: center;border-bottom: solid;border-bottom-color: orange;} /* This makes the header centered and have a solid orange bottom border */
+h1 {color: orange;} /* This makes h1 orange */
+footer {border-top: solid;border-top-color: orange;} /* This makes the footer have a solid orange top border */
+#dogs {width: 320px;padding:5px;float: left;margin:0px 50px 0px 0px;} /* This makes the image labeled "dogs" have a width of 320px, a padding of 5px, float left, and a margin of 0px, 50px, 0px, 0px */
+#painting {width: auto; height: 140px;} /* This makes the image labeled "painting" have a height of 140px */
+#grey {width: auto; height: 140px;} /* This makes the image labeled "grey" have a height of 140px */
+#police {width: auto; height: 140px;} /* This makes the image labeled "police" have a height of 140px */
+#shelter {width: auto; height: 140px;} /* This makes the image labeled "shelter" have a height of 140px */
+#toy {width: auto; height: 140px;} /* This makes the image labeled "toy" have a height of 140px */
+a:hover, a:focus {color: orange; font-size: 15px;} /* This makes all links orange and 15 px when hovered over or focused on */
+a:visited {color:blueviolet;} /* This makes all visited links blue violet */
+img {border: solid; color: black;} /* This makes all images have a soolid black border */
